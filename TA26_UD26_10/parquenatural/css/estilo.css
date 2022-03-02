@@ -30,7 +30,7 @@ h2 {
 
 div.cuerpo {
   border: #d3d3d3 1px solid;
-  margin: 10px 20px 0px 150px;
+  margin: 10px 20px 10px 150px;
   padding: 20px;
   background-image: linear-gradient(rgba(128, 128, 128, 0.144), white, rgba(128, 128, 128, 0.144));
 }
