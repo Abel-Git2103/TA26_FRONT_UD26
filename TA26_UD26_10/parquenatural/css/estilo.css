@@ -1,0 +1,82 @@
+body {
+  font-family: "Lucida Sans Unicode", sans-serif;
+  font-size: 14px;
+  border: #d3d3d3 5px solid;
+  border-radius: 10px;
+  text-align: justify;
+  margin: auto;
+  width: 900px;
+}
+
+h1 {
+  text-align: center;
+  color: #5F8F11;
+  letter-spacing: .2em;
+  background-image: url(imagenes/panoramica.jpg);
+  background-position: top center;
+  background-repeat: no-repeat;
+  padding-top: 170px;
+  margin: 0;
+}
+
+h1 span {
+  color: #bf823b;
+}
+
+h2 {
+  color: #70af0a;
+  border-bottom: #cfdfb5 1px solid;
+}
+
+div.cuerpo {
+  border: #d3d3d3 1px solid;
+  margin: 10px 20px 0px 150px;
+  padding: 20px;
+  background-image: linear-gradient(rgba(128, 128, 128, 0.144), white, rgba(128, 128, 128, 0.144));
+}
+
+#links {
+  float: left;
+  width: 110px;
+  margin: 20px;
+  padding: 0;
+  list-style-type: none;
+}
+
+#links li {
+  border: #d3d3d3 1px solid;
+  margin-bottom: 5px;
+  font-size: 90%;
+  text-align: center;
+  line-height: 30px;
+  background-color: #5bd67a;
+  background-repeat: repeat-x;
+  background-position: bottom left;
+}
+
+#links a { 
+  display: block; 
+  text-decoration: none; 
+  color: #4F4F4F;
+}
+
+#links a:hover {
+  color: #4F4F4F;
+  background-color: #E5CDB2;
+}
+
+div.autores {
+  color: #BFBFBF;
+  font-size: 85%;
+  text-align: center;
+  font-style: oblique;
+  padding: 10px;
+}
+
+div.autores a {
+  color: #BFBFBF;
+}
+
+
+
+

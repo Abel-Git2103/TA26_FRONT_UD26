@@ -1,0 +1,32 @@
+body {
+  font-family: "Lucida Sans Unicode", sans-serif;
+  font-size: 14px;
+  background-color: #ffffff;
+  border: #d3d3d3 5px solid;
+  text-align: justify;
+  margin: auto;
+  width: 850px;
+  padding: 20px;
+}
+
+h1 span {
+  color: #bf823b;
+}
+
+h1 {
+  text-align: center;
+  color: #5f8f11;
+  letter-spacing: 0.2em;
+  padding-top: 20px;
+  margin: 0;
+}
+
+h2 {
+  color: #70af0a;
+  border-bottom: #cfdfb5 1px solid;
+}
+
+.cuerpo {
+  border: #d3d3d3 1px solid;
+  padding: 10px;
+}

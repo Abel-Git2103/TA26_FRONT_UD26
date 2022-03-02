@@ -1,0 +1,21 @@
+h2 {
+  background-color: rgb(255, 193, 117);
+}
+
+h1 {
+  font-style: italic;
+  color: rgb(0, 102, 255);
+}
+
+p1 {
+  color: rgb(23, 25, 126);
+}
+
+body {
+  background-color: aliceblue;
+}
+
+span {
+  font-style: italic;
+  color: aquamarine;
+}
