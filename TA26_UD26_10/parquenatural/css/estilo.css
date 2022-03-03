@@ -2,7 +2,7 @@ body {
   font-family: "Lucida Sans Unicode", sans-serif;
   font-size: 14px;
   border: #d3d3d3 5px solid;
-  border-radius: 10px;
+  border-radius: 20px;
   text-align: justify;
   margin: auto;
   width: 900px;
@@ -32,7 +32,7 @@ div.cuerpo {
   border: #d3d3d3 1px solid;
   margin: 10px 20px 10px 150px;
   padding: 20px;
-  background-image: linear-gradient(rgba(128, 128, 128, 0.144), white, rgba(128, 128, 128, 0.144));
+  background: linear-gradient(rgba(128, 128, 128, 0.082), white, rgba(128, 128, 128, 0.089));
 }
 
 #links {
